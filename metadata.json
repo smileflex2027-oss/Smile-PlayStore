@@ -1,0 +1,6 @@
+{
+  "name": "Smile PlayStore",
+  "description": "Your independent Android app marketplace with Cloudflare R2 object storage, developer portal, and admin governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
